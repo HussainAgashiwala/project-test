@@ -10,7 +10,7 @@
 
 # How to Install and Run the Project
 - npm install 
-- npm install-client
+- npm run install-client
 - npm start
 
 # Server running
